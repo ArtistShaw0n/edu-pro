@@ -1,3 +1,3 @@
-# Education Pro — Design Versions
+# Education Pro — Final Design (v8)
 
-একটি লিংকে ৯টি ডিজাইন ভার্সন। ডান-নিচের ফ্লোটিং বাটন থেকে ভার্সন বদলান।
+Education Pro landing page-এর final version (v8)। আগের v1–v7 বাদ দেওয়া হয়েছে।
